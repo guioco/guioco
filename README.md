@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 PAT = Personal Access Token
 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
+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
